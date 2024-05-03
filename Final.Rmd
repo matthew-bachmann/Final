@@ -205,7 +205,7 @@ Answer here
 ##### **Exercise 6. Suppose you conduct a hypothesis test with a sample size of $40$ and get a $p$-value of $0.12$. When double checking your work you realize that you made a silly mistake and the sample size was actually $400$. Will your $p$-value increase, decrease, or stay the same? Explain your reasoning. (1 point)**
 
 <div>
-:::{#answe}
+:::{#answer}
 Answer here
 :::
 </div>
