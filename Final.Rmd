@@ -180,13 +180,7 @@ Answer here
 # insert code here
 ```
 
-<div>
-:::{#answer} 
 
-Answer here
- 
-:::
-</div>
 
 ---
 
