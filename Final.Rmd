@@ -96,7 +96,7 @@ $H_A:$
 **(B.) Find the p-value for the test statistic or state why our methods do not apply.**
 
 ```{r}
-
+# insert code here
 ```
 
 
@@ -113,13 +113,13 @@ Write your answer here
 
 ---
 
-##### **Exercise 3. Consider the histogram show below: (knit to view the image)   (1 points)**
+##### **Exercise 3. Consider the histogram shown below: (knit to view the image)   (1 points)**
 
 <center>
 <img src="./IMG1.png" width="350"/>
 </center>
 
-**(A.) Estimate the median for the $400$ observations shown in the histogram below. (hint: the bin width is 5)**
+**(A.) Estimate the median for the $400$ observations shown in the histogram. (hint: the bin width is 5)**
 
 <div>
 :::{#answer}
