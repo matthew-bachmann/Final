@@ -187,6 +187,10 @@ Answer here
 
 ##### **Exercise 5. A poll conducted found that 52% of U.S. adults support a new policy. The standard error for this estimate was 2.4%. Assume all conditions needed to apply our methods are satisfied. Construct a $99 \%$ confidence interval for the proportion of U.S. adults that support the new policy (1 points)**
 
+```{r}
+# insert code here
+```
+
 <div>
 :::{#answer} 
 
