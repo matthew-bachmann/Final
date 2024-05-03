@@ -380,7 +380,7 @@ Answer here
 
 ---
 
-##### **Exercise 15. Load the `textbooks` data from the `openintro` package. It contains data for the price of new textbooks at the UCLA book store and on amazon. Conduct a hypothesis test to determine if there is a statistically significant difference between the prices of textbooks from the two sellers. (2.5 points)**
+##### **Exercise 15. Load the `textbooks` data from the `openintro` package. It contains data for the price of new textbooks at the UCLA book store and on amazon. Conduct a hypothesis test to determine if there is a statistically significant difference between the prices of textbooks from the two sellers. (Assume our methods apply). (2.5 points)**
 
 **(A.) Set up the hypotheses below :**
 
@@ -392,7 +392,7 @@ $H_A:$
 :::
 </div>
 
-**(B.) Conduct a hypothesis test to obtain a $p$-value for the sample statistic or explain why our methods do not apply.**
+**(B.) Conduct a hypothesis test to obtain a $p$-value for the sample statistic.**
 
 ```{r}
 # insert code here
