@@ -13,6 +13,7 @@ editor_options:
 library(knitr)
 library(openintro)
 library(tidyverse)
+mammals <- openintro::mammals
 knitr::opts_chunk$set(eval = TRUE, results = TRUE)
 ```
 
