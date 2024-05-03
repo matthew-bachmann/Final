@@ -231,7 +231,7 @@ Answer here
 ##### **Exercise 9. Suppose we are doing a hypothesis test to determine if there is a statistically significant difference in two population proportions. Will we need to calculate a pooled proportion? Why or why not? (1 points)**
 
 <div>
-:::{#answe}
+:::{#answer}
 Answer here
 :::
 </div>
