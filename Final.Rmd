@@ -281,11 +281,9 @@ Answer here
 
 **(C.) What is the probability that a random data point from the population falls between $160$ and $170$?**
 
-<div>
-:::{#answer}
-Answer here
-:::
-</div>
+```{r}
+# insert code here
+```
 
 ---
 
